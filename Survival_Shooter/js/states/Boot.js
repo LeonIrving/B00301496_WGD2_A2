@@ -51,18 +51,18 @@ class Boot extends Phaser.Scene {
     this.load.spritesheet('enemy_beam', 'Survival_Shooter/assets/sprites/players/spr_enemy_bullet.png',{frameWidth: 16, frameHeight: 16});
     this.load.spritesheet('health_pickUp', 'Survival_Shooter/assets/sprites/pick_ups/spr_health_pickup.png',{frameWidth: 43, frameHeight: 67});
 
-    this.load.audio('titleMusic', ['https://leonirving.github.io/B00301496_WGD2_A2/Survival_Shooter/assets/sounds/music/mus_title.ogg']);
-    this.load.audio('gameOverMusic', ['https://leonirving.github.io/B00301496_WGD2_A2/Survival_Shooter/assets/sounds/music/mus_game_over.wav']);
-    this.load.audio('winMusic', ['https://leonirving.github.io/B00301496_WGD2_A2/Survival_Shooter/assets/sounds/music/mus_win.wav']);
-    this.load.audio('characterSelectMusic', ['https://leonirving.github.io/B00301496_WGD2_A2/Survival_Shooter/assets/sounds/music/mus_character_Select.ogg']);
-    this.load.audio('level1Music', ['https://leonirving.github.io/B00301496_WGD2_A2/Survival_Shooter/assets/sounds/music/mus_level_1.ogg']);
-    this.load.audio('confirmSound', ['https://leonirving.github.io/B00301496_WGD2_A2/Survival_Shooter/assets/sounds/sound effects/snd_confirm.ogg']);
-    this.load.audio('melee_attack', ['https://leonirving.github.io/B00301496_WGD2_A2/Survival_Shooter/assets/sounds/sound effects/snd_attack.wav']);
-    this.load.audio('gun_attack', ['https://leonirving.github.io/B00301496_WGD2_A2/Survival_Shooter/assets/sounds/sound effects/snd_bubble_gun.wav']);
-    this.load.audio('tom_pickup_Sound', ['https://leonirving.github.io/B00301496_WGD2_A2/Survival_Shooter/assets/sounds/voices/snd_tom_pickup.wav']);
-    this.load.audio('harry_pickup_Sound', ['https://leonirving.github.io/B00301496_WGD2_A2/Survival_Shooter/assets/sounds/voices/snd_harry_pickup.wav']);
-    this.load.audio('zoey_pickup_Sound', ['https://leonirving.github.io/B00301496_WGD2_A2/Survival_Shooter/assets/sounds/voices/snd_zoey_pickup.wav']);
-    this.load.audio('enemy_hurt_sound', ['https://leonirving.github.io/B00301496_WGD2_A2/Survival_Shooter/assets/sounds/voices/snd_monster_hurt_02.wav']);
+    this.load.audio('titleMusic', ['Survival_Shooter/assets/sounds/music/mus_title.ogg']);
+    this.load.audio('gameOverMusic', ['Survival_Shooter/assets/sounds/music/mus_game_over.wav']);
+    this.load.audio('winMusic', ['Survival_Shooter/assets/sounds/music/mus_win.wav']);
+    this.load.audio('characterSelectMusic', ['Survival_Shooter/assets/sounds/music/mus_character_Select.ogg']);
+    this.load.audio('level1Music', ['Survival_Shooter/assets/sounds/music/mus_level_1.ogg']);
+    this.load.audio('confirmSound', ['Survival_Shooter/assets/sounds/sound effects/snd_confirm.ogg']);
+    this.load.audio('melee_attack', ['Survival_Shooter/assets/sounds/sound effects/snd_attack.wav']);
+    this.load.audio('gun_attack', ['Survival_Shooter/assets/sounds/sound effects/snd_bubble_gun.wav']);
+    this.load.audio('tom_pickup_Sound', ['Survival_Shooter/assets/sounds/voices/snd_tom_pickup.wav']);
+    this.load.audio('harry_pickup_Sound', ['Survival_Shooter/assets/sounds/voices/snd_harry_pickup.wav']);
+    this.load.audio('zoey_pickup_Sound', ['Survival_Shooter/assets/sounds/voices/snd_zoey_pickup.wav']);
+    this.load.audio('enemy_hurt_sound', ['Survival_Shooter/assets/sounds/voices/snd_monster_hurt_02.wav']);
 
     this.load.tilemapTiledJSON('level2', 'Survival_Shooter/assets/maps/level2.json');
   }
