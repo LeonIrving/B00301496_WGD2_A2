@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Assessment 1 Website.iml" filepath="$PROJECT_DIR$/.idea/Assessment 1 Website.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/B00301496_WGD2_A2.github.io.iml" filepath="$PROJECT_DIR$/.idea/B00301496_WGD2_A2.github.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/B00301496_WGD2_A2.iml" filepath="$PROJECT_DIR$/.idea/B00301496_WGD2_A2.iml" />
     </modules>
   </component>
 </project>
