@@ -56,9 +56,9 @@ class Boot extends Phaser.Scene {
     this.load.audio('winMusic', ['Survival_Shooter/assets/sounds/music/mus_win.wav']);
     this.load.audio('characterSelectMusic', ['Survival_Shooter/assets/sounds/music/mus_character_Select.ogg']);
     this.load.audio('level1Music', ['Survival_Shooter/assets/sounds/music/mus_level_1.ogg']);
-    this.load.audio('confirmSound', ['Survival_Shooter/assets/sounds/sound effects/snd_confirm.ogg']);
-    this.load.audio('melee_attack', ['Survival_Shooter/assets/sounds/sound effects/snd_attack.wav']);
-    this.load.audio('gun_attack', ['Survival_Shooter/assets/sounds/sound effects/snd_bubble_gun.wav']);
+    this.load.audio('confirmSound', ['Survival_Shooter/assets/sounds/soundeffects/snd_confirm.ogg']);
+    this.load.audio('melee_attack', ['Survival_Shooter/assets/sounds/soundeffects/snd_attack.wav']);
+    this.load.audio('gun_attack', ['Survival_Shooter/assets/sounds/soundeffects/snd_bubble_gun.wav']);
     this.load.audio('tom_pickup_Sound', ['Survival_Shooter/assets/sounds/voices/snd_tom_pickup.wav']);
     this.load.audio('harry_pickup_Sound', ['Survival_Shooter/assets/sounds/voices/snd_harry_pickup.wav']);
     this.load.audio('zoey_pickup_Sound', ['Survival_Shooter/assets/sounds/voices/snd_zoey_pickup.wav']);
