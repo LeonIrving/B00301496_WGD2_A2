@@ -76,7 +76,8 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -180,7 +181,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,6 +197,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,11 +255,12 @@
       <workItem from="1585736147349" duration="2533000" />
       <workItem from="1585754094805" duration="2583000" />
       <workItem from="1585759847625" duration="55000" />
+      <workItem from="1585759934304" duration="334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32289000" />
+    <option name="totallyTimeSpent" value="32623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -393,6 +395,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../WGD2_A2_Website/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../WGD2_A2_Website/play.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
@@ -414,13 +423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2006">
           <caret line="118" column="38" selection-start-line="118" selection-start-column="38" selection-end-line="118" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../WGD2_A2_Website/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="65" column="16" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
         </state>
       </provider>
     </entry>
